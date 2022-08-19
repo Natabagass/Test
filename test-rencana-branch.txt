@@ -2,3 +2,7 @@ INI EMANG BRANCH
 
 UNTUK MENCOBA COBA SAJA BANG
 Struktur Data dasar
+Vue.js
+React.js
+Laravel
+Python
